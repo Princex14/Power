@@ -98,6 +98,7 @@ if ENV:
     BOT_ID = 1412878118
     TEMP_DOWNLOAD_DIRECTORY = os.environ.get("TEMP_DOWNLOAD_DIRECTORY", "./")
     ALLOW_CHATS = os.environ.get("ALLOW_CHATS", True)
+    ARQ_API_KEY = os.environ.get('ARQ_API_KEY', None)
 
     try:
         BL_CHATS = set(int(x) for x in os.environ.get('BL_CHATS', "").split())
