@@ -68,7 +68,7 @@ HELP_STRINGS = """
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-KURISU_IMG = "https://telegra.ph/file/dbe0a31fa8adeb43dcf6b.jpg"
+KURISU_IMG = "https://telegra.ph/file/568b658d54252296cca2a.jpg"
 KURISUIMGSTART = "https://telegra.ph/file/543ec9a150fd86d5db2b5.mp4"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
